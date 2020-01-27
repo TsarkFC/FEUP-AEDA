@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2019.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\digas\OneDrive\Documentos\FEUP\2o ano - 2019-20\1o Semestre\AEDA\AEDA_TP4"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/AEDA_TP4/cmake-build-debug

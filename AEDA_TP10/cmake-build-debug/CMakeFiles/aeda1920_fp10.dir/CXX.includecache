@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/AEDA_TP10/Tests/caixa.cpp
+caixa.h
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/AEDA_TP10/Tests/caixa.h
+sstream
+-
+
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/AEDA_TP10/Tests/caixa.h
+stack
+-
+iostream
+-
+
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/AEDA_TP10/Tests/maquinaEmpacotar.cpp
+maquinaEmpacotar.h
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/AEDA_TP10/Tests/maquinaEmpacotar.h
+sstream
+-
+algorithm
+-
+
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/AEDA_TP10/Tests/maquinaEmpacotar.h
+queue
+-
+vector
+-
+stack
+-
+iostream
+-
+caixa.h
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/AEDA_TP10/Tests/caixa.h
+

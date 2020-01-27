@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/3o teste/tests/aeda1617_ci3_googleTest/Tests/BST.h
+iostream
+-
+stack
+-
+queue
+-
+
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/3o teste/tests/aeda1617_ci3_googleTest/Tests/Book.h
+User.h
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/3o teste/tests/aeda1617_ci3_googleTest/Tests/User.h
+string
+-
+
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/3o teste/tests/aeda1617_ci3_googleTest/Tests/ReadingClub.cpp
+ReadingClub.h
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/3o teste/tests/aeda1617_ci3_googleTest/Tests/ReadingClub.h
+algorithm
+-
+
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/3o teste/tests/aeda1617_ci3_googleTest/Tests/ReadingClub.h
+Book.h
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/3o teste/tests/aeda1617_ci3_googleTest/Tests/Book.h
+User.h
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/3o teste/tests/aeda1617_ci3_googleTest/Tests/User.h
+BST.h
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/3o teste/tests/aeda1617_ci3_googleTest/Tests/BST.h
+vector
+-
+tr1/unordered_set
+-
+queue
+-
+
+C:/Users/digas/OneDrive/Documentos/FEUP/2o ano - 2019-20/1o Semestre/AEDA/3o teste/tests/aeda1617_ci3_googleTest/Tests/User.h
+string
+-
+vector
+-
+utility
+-
+
