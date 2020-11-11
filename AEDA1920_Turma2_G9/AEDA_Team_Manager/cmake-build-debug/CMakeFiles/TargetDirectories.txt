@@ -1,3 +1,0 @@
-C:/Users/digas/OneDrive/Documentos/AEDA1920_Turma2_G9/AEDA_Team_Manager/cmake-build-debug/CMakeFiles/AEDA_Team_Manager.dir
-C:/Users/digas/OneDrive/Documentos/AEDA1920_Turma2_G9/AEDA_Team_Manager/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/digas/OneDrive/Documentos/AEDA1920_Turma2_G9/AEDA_Team_Manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
