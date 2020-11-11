@@ -1,4 +1,4 @@
-# FEUP - AEDA
+# feup-aeda
 
 ## Contents
 
