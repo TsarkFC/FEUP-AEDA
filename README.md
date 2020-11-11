@@ -3,8 +3,10 @@
 ## Contents
 
 [Course tests](tests)
+
 [Practical classes exerceises](tps)
-[Project](project)
+
+[Project](https://github.com/tiago-falves/AEDA_Team_Manager/)
 
 ## Grades
 
